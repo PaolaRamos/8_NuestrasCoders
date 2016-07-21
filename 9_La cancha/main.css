@@ -1,0 +1,48 @@
+.pasto{
+	width: 600px;
+	height: 500px;
+	background-color: green;
+
+}
+.borde{
+	border: solid 3px white;
+}
+.banda{
+	width: 600px;
+	height: 400px;
+	margin: 100px;
+	position: relative;
+	top: 40px;
+	left: 20px;
+}
+.chica{
+	width: 200px;
+	height: 100px;
+	position: absolute;
+
+}
+.der{
+	left: 557px;
+}
+.izq{
+	right: 557px;
+}
+.circulo{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	left: 250px;
+	top:90px;
+
+.bola{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%
+	background-color:white;
+
+}
+a.{
+	
+}

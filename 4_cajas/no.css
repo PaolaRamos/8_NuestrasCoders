@@ -1,0 +1,29 @@
+p{
+	color:black;
+	font-family:Tahoma;
+	background-color: white;
+	color: black;
+    border:dashed;
+
+}
+
+#uno{
+	padding: 40px 20px 70px 100px;
+	color: green;
+	background-color: green;
+	border:transparent;
+
+
+}
+#dos
+{
+	margin: 20px 60px 30.5 60px;
+	color: blue;
+	background-color: purple;
+
+
+
+}
+#tres{
+
+}

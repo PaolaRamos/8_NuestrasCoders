@@ -1,0 +1,70 @@
+.redondo{
+	width: 200px;
+	height: 200px;
+	border-radius:50%;
+	text-align: center;
+	margin: auto;
+}
+
+header{
+	padding: 15px;
+	margin: 0px;
+	color: black;
+	border-bottom: solid white 1px;
+	background: white;
+
+}
+.margen{
+	border: 2px solid black;
+	text-align: center;
+	
+
+}
+.foto{
+	width: 940px;
+}
+.centrado{
+	margin-right: 80px;
+	margin-left: 50px;
+}
+p{
+	font-family: tahoma;
+	font-style: bold;
+}
+hr,img{
+	margin: 10px;
+}
+.raya{
+	border-right: 1px solid black;
+}
+.portafolio{
+	height: 221px;
+	width: 221px;
+
+}
+.gris{
+	background-color: gray;
+	color: white;
+	height: 30px;
+	margin: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 15px;
+	margin-left: 15px;
+	text-align: center;
+	
+
+}
+.html{
+ width: 500px;
+}
+.css{
+	width: 400px;
+}
+.js{
+	width:250px;
+}
+.h2{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}

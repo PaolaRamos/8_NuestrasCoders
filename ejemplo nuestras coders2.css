@@ -1,0 +1,9 @@
+.linea{
+	display: inline-block;
+}
+.texto{
+	color: white;
+	position: absolute;
+	right: 30px;
+	bottom: 10px;
+}
